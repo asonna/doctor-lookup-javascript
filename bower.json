@@ -1,0 +1,17 @@
+{
+  "name": "doctor-lookup_javascript",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Annie <nsab42@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
