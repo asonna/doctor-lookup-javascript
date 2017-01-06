@@ -1,12 +1,12 @@
 {
   "name": "doctor-lookup_javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "what we want it to do",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Annie Sonna",
   "license": "ISC",
   "devDependencies": {
     "bower-files": "^3.14.1",

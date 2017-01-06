@@ -6,7 +6,7 @@
     "Annie <nsab42@yahoo.com>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/asonna/doctor-lookup-javascript",
   "ignore": [
     "**/.*",
     "node_modules",
