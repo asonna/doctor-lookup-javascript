@@ -24,11 +24,12 @@ var Doctor = require('./../js/doctor.js').doctorModule;
 
 var displayDoctorsBio= function(medicalIssue, result) {
   console.log(result);
-    $('.resultMessage').text("These are the doctors that can address your " + medicalIssue + " issue:");
+    $('.resultMessage').text("These are the bio of doctors that can address your " + medicalIssue + " issue. Their names are included:");
 
     var i = "";
+    $('.showDoctors').empty();
     for(i=0; i<result.length; ++i) {
-      $('.showDoctors').append('<li>' + result[i].profile.bio + '</li>');
+      $('.showDoctors').append('<li>' + result[i].profile.bio + '</li><br>');
     }
 
 };
