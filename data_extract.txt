@@ -1,0 +1,848 @@
+{
+  "meta": {
+    "data_type": "array",
+    "item_type": "Doctor",
+    "total": 22529,
+    "count": 20,
+    "skip": 0,
+    "limit": 20
+  },
+  "data": [
+  **  {
+      "practices": [
+        {
+          "within_search_area": true,
+          "distance": 9.274165411209877,
+          "lat": 45.41217,
+          "lon": -122.56874,
+          "uid": "850c4c294d87545d4a6607089f4f2e53",
+          "npi": null,
+          "name": "Oregon Headache Clinic",
+          "email": null,
+          "insurance_uids": [],
+          "visit_address": {
+            "city": "Clackamas",
+            "lat": 45.41217,
+            "lon": -122.56874,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "15259 SE 82nd Dr",
+            "street2": "Ste 201B",
+            "zip": "97015"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "5036563120",
+              "type": "fax"
+            },
+            {
+              "number": "5036569844",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ],
+          "doctors_pagination_url": "https://api.betterdoctor.com/2016-03-01/practices/850c4c294d87545d4a6607089f4f2e53/doctors"
+        }
+      ],
+      "educations": [],
+      "profile": {
+        "first_name": "Christina",
+        "middle_name": "E",
+        "last_name": "Peterson",
+        "slug": "christina-peterson-md",
+        "title": "MD",
+        "image_url": "https://asset1.betterdoctor.com/assets/general_doctor_female.png",
+        "gender": "female",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Christina Peterson, MD practices medicine at Clackamas, Oregon, specializing in neurology.\n\nDr. Peterson is licensed to see patients in Alaska and Oregon.\n\nIn addition to having active medical licenses, Dr. Peterson has successfully passed a background check including a medical license verification (active) and screening for malpractice history (none found)."
+      },
+      "ratings": [],
+      "insurances": [],
+      "specialties": [
+        {
+          "uid": "neurologist",
+          "name": "Neurology",
+          "description": "Specializes in the brain and nervous system.",
+          "category": "medical",
+          "actor": "Neurologist",
+          "actors": "Neurologists"
+        }
+      ],
+      "hospital_affiliations": [],
+      "group_affiliations": [],
+      "uid": "b8f946116d97e83bec031a10c0480de9",
+      "npi": "1245394022"
+    },**
+
+  **  {
+      "practices": [
+        {
+          "within_search_area": true,
+          "distance": 13.669696888942799,
+          "lat": 45.71995,
+          "lon": -122.64818,
+          "uid": "4f3fbb440ade58e983b74d9bc9b9cd8f",
+          "npi": null,
+          "name": "Herbert Krob, MD",
+          "email": null,
+          "insurance_uids": [
+            "firstchoice-firstchoice",
+            "bcbsbluecard-bcbsbluecardppo",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "firsthealthcoventryhealthcare-firsthealthppo"
+          ],
+          "visit_address": {
+            "city": "Vancouver",
+            "lat": 45.71995,
+            "lon": -122.64818,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "2211 NE 139th St",
+            "zip": "98686"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "5034133958",
+              "type": "business_landline"
+            },
+            {
+              "number": "5034133212",
+              "type": "business_fax"
+            },
+            {
+              "number": "3604871000",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ],
+          "doctors_pagination_url": "https://api.betterdoctor.com/2016-03-01/practices/4f3fbb440ade58e983b74d9bc9b9cd8f/doctors"
+        },
+        {
+          "within_search_area": true,
+          "distance": 13.789821995977457,
+          "lat": 45.721764,
+          "lon": -122.650027,
+          "uid": "8adbea3ebc0f32ecf5112626f3ea35d9",
+          "npi": null,
+          "name": "Legacy Salmon Creek Neurology Clinic",
+          "email": null,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "cigna-cignaopenaccessplus",
+            "aetna-aetnachoiceposii",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "cigna-cignappo",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "gwhcigna-greatwestppo"
+          ],
+          "visit_address": {
+            "city": "Vancouver",
+            "lat": 45.721764,
+            "lon": -122.650027,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "2121 NE 139th St",
+            "street2": "Ste 400",
+            "zip": "98686"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "3604874709",
+              "type": "fax"
+            },
+            {
+              "number": "3604874707",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ],
+          "doctors_pagination_url": "https://api.betterdoctor.com/2016-03-01/practices/8adbea3ebc0f32ecf5112626f3ea35d9/doctors"
+        }
+      ],
+      "educations": [
+        {
+          "school": null,
+          "graduation_year": null,
+          "degree": "MD"
+        },
+        {
+          "school": "University of North Carolina",
+          "graduation_year": null,
+          "degree": "Residency"
+        },
+        {
+          "school": "University of North Carolina",
+          "graduation_year": null,
+          "degree": "Fellowship"
+        }
+      ],
+      "profile": {
+        "first_name": "Herbert",
+        "middle_name": "A",
+        "last_name": "Krob",
+        "slug": "herbert-krob-md",
+        "title": "MD",
+        "image_url": "https://asset3.betterdoctor.com/images/549267ed4214f81147000b90-2_thumbnail.jpg",
+        "gender": "male",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr H. Alexander Krob is the Chairman of Neurology at Legacy Salmon Creek Hospital. Dr. Krob is board certified in Neurology by the American Board of Psychiatry and Neurology, and board certified in Electrodiagnostic Medicine by the American Board of Electrodiagnostic Medicine. His expertise includes diseases of peripheral nerves and muscle, electrodiagnostic medicine including electromyography (EMG) and nerve conduction studies, neuromsucular ultrasound and headache and facial pain disorders. Dr. Krob is a member of the American Academy of Neurology, the American Academy of Neurodiagnostic and Electrodiagnostic Medicine, and the American Headache Society. Dr. Krob is also a member and supporter of OPB Radio, the Portland Opera Company, the Portland Art Museum, and the City Club of Portland. Founding member of the Legacy Health Neurosciences Leadership Council Hobbies include: Cycling, Camping"
+      },
+      "ratings": [
+        {
+          "active": true,
+          "provider": "betterdoctor",
+          "provider_uid": "herbert-krob-md",
+          "provider_url": "https://betterdoctor.com/herbert-krob-md",
+          "rating": 5,
+          "review_count": 0,
+          "image_url_small": "https://asset1.betterdoctor.com/assets/consumer/stars/stars-small-5.0.png",
+          "image_url_small_2x": "https://asset1.betterdoctor.com/assets/consumer/stars/stars-small-5.0@2x.png",
+          "image_url_large": "https://asset1.betterdoctor.com/assets/consumer/stars/stars-large-5.0.png",
+          "image_url_large_2x": "https://asset1.betterdoctor.com/assets/consumer/stars/stars-large-5.0@2x.png"
+        }
+      ],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbsbluecard",
+            "name": "BCBS Blue Card"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoice",
+            "name": "First Choice"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firsthealthppo",
+            "name": "First Health PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firsthealthcoventryhealthcare",
+            "name": "First Health Coventry Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "gwhcigna",
+            "name": "GWH-Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "regenceblueshieldofwashinton",
+            "name": "Regence Blue Shield of Washinton"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "neurologist",
+          "name": "Neurology",
+          "description": "Specializes in the brain and nervous system.",
+          "category": "medical",
+          "actor": "Neurologist",
+          "actors": "Neurologists"
+        },
+        {
+          "uid": "psychiatry-neurology-neuromuscular-medicine",
+          "name": "Psychiatry & Neurology Neuromuscular Medicine",
+          "description": "A neurologist or child neurologist who specializes in the diagnosis and management of disorders of nerve, muscle or neuromuscular junction, including amyotrophic lateral sclerosis, peripheral neuropathies (e.g., diabetic and immune mediated neuropathies), various muscular dystrophies, congenital and acquired myopathies, inflammatory myopathies (e.g., polymyositis, inclusion body myositis) and neuromuscular transmission disorders (e.g., myasthenia gravis, Lambert-Eaton myasthenic syndrome).",
+          "category": "medical",
+          "actor": "Psychiatry & Neurology Neuromuscular Medicine",
+          "actors": "Psychiatry & Neurology Neuromuscular Medicines"
+        }
+      ],
+      "hospital_affiliations": [],
+      "group_affiliations": [],
+      "uid": "0290c5fddb8452bdffa31b71c5c71a5a",
+      "npi": "1780615625"
+    },
+  **  {
+      "practices": [
+        {
+          "within_search_area": true,
+          "distance": 3.9332542282915095,
+          "lat": 45.512875,
+          "lon": -122.756423,
+          "uid": "4618dc2629fe8970bfb699e855cf0797",
+          "npi": null,
+          "name": "Harry Reahl, MD",
+          "email": null,
+          "insurance_uids": [
+            "cigna-cignaopenaccessplus",
+            "multiplan-phcsppo",
+            "multiplan-multiplanppo",
+            "providencehealthsystem-providencepreferredppo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "providencehealthsystem-providencepersonaloption",
+            "cigna-cignappo",
+            "aetna-aetnasignatureadministratorsppo",
+            "aetna-aetnachoiceposii",
+            "firstchoice-firstchoice",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicare-medicare",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo",
+            "firsthealthcoventryhealthcare-firsthealthppo"
+          ],
+          "visit_address": {
+            "city": "Portland",
+            "lat": 45.512875,
+            "lon": -122.756423,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "9427 SW Barnes Rd",
+            "street2": "Ste 595",
+            "zip": "97225"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "5032161150",
+              "type": "landline"
+            },
+            {
+              "number": "5032161066",
+              "type": "fax"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ],
+          "doctors_pagination_url": "https://api.betterdoctor.com/2016-03-01/practices/4618dc2629fe8970bfb699e855cf0797/doctors"
+        },
+        {
+          "within_search_area": true,
+          "distance": 3.9343909937302066,
+          "lat": 45.512875,
+          "lon": -122.756423,
+          "uid": "08fd27de8015ee20277e77146b1b83e4",
+          "npi": null,
+          "name": "Providence St. Vincent Heart Clinic-cardiology",
+          "email": null,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "providencehealthsystem-providencepreferredppo",
+            "aetna-aetnachoiceposii",
+            "firstchoice-firstchoice",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "cigna-cignappo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "aetna-aetnasignatureadministratorsppo",
+            "providencehealthsystem-providencepersonaloption",
+            "multiplan-phcsppo",
+            "cigna-cignaopenaccessplus",
+            "multiplan-multiplanppo",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicaid-medicaid",
+            "medicare-medicare",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "odshealthplan-odsnetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Portland",
+            "lat": 45.512875,
+            "lon": -122.756423,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "9427 SW Barnes Rd",
+            "street2": "Ste 498",
+            "zip": "97225"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "5032160900",
+              "type": "landline"
+            },
+            {
+              "number": "5032160950",
+              "type": "fax"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ],
+          "doctors_pagination_url": "https://api.betterdoctor.com/2016-03-01/practices/08fd27de8015ee20277e77146b1b83e4/doctors"
+        },
+        {
+          "within_search_area": true,
+          "distance": 4.694143803897374,
+          "lat": 45.51092,
+          "lon": -122.77186,
+          "uid": "5f4dbbfb4712f7bc240ca01935da8640",
+          "npi": null,
+          "name": "Brian Kearns, MD",
+          "email": null,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "multiplan-phcsppo",
+            "cigna-cignappo",
+            "cigna-cignaopenaccessplus",
+            "aetna-aetnasignatureadministratorsppo",
+            "aetna-aetnachoiceposii",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "firstchoice-firstchoice",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "multiplan-multiplanppo",
+            "providencehealthsystem-providencepreferredppo",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicaid-medicaid",
+            "medicare-medicare",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Portland",
+            "lat": 45.51092,
+            "lon": -122.77186,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "9205 SW Barnes Rd",
+            "zip": "97225"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "5032929108",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ],
+          "doctors_pagination_url": "https://api.betterdoctor.com/2016-03-01/practices/5f4dbbfb4712f7bc240ca01935da8640/doctors"
+        }
+      ],
+      "educations": [
+        {
+          "school": "Georgetown University School of Medicine",
+          "graduation_year": null,
+          "degree": "MD"
+        },
+        {
+          "school": "Georgetown University Hospital",
+          "graduation_year": null,
+          "degree": "Residency"
+        },
+        {
+          "school": "Georgetown University Hospital",
+          "graduation_year": null,
+          "degree": "Fellowship"
+        }
+      ],
+      "profile": {
+        "first_name": "Harry",
+        "middle_name": "L",
+        "last_name": "Reahl",
+        "slug": "harry-reahl-md",
+        "title": "MD",
+        "image_url": "https://asset3.betterdoctor.com/images/553de82c4214f87cb10001d1-2_thumbnail.jpg",
+        "gender": "male",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Reahl taught at Georgetown University Hospital and was an assistant professor at West Virginia University. He has served as vice chief of the department of neurological medicine at Charleston Area Medical Center and was the examining physician for many clinical trials.\n\nDr. Reahl is a general neurologist with an interest in the treatment of headache without narcotics. He is board-certified in neurology and joins Providence after practicing in neurology clinics in Charleston, W.Va., for 14 years. Dr. Reahl earned a master's in physiology and his medical degree at Georgetown University. He completed a residency in neurology and a fellowship in electroencephalography and sleep medicine at Georgetown University Hospital."
+      },
+      "ratings": [],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbsbluecard",
+            "name": "BCBS Blue Card"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoice",
+            "name": "First Choice"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "gwhcigna",
+            "name": "GWH-Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "lifewisehealthplanoforegon",
+            "name": "Lifewise Health Plan of Oregon",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "lifewisehealthplanoforegon",
+            "name": "Lifewise health Plan of Oregon"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "phcsppo",
+            "name": "PHCS PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceorpreferredprovidernetwork",
+            "name": "Regence OR Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "regencebluecrossblueshieldoforegon",
+            "name": "Regence Blue Cross Blue Shield of Oregon"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "neurologist",
+          "name": "Neurology",
+          "description": "Specializes in the brain and nervous system.",
+          "category": "medical",
+          "actor": "Neurologist",
+          "actors": "Neurologists"
+        }
+      ],
+      "hospital_affiliations": [],
+      "group_affiliations": [],
+      "uid": "43a32282514b6969209fcf3fc60dc6ce",
+      "npi": "1073603916"
+    },

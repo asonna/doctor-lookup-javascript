@@ -1,0 +1,82 @@
+$gray : #d3d3d3;
+
+.container {
+  background-color: maroon;
+  color: white;
+  padding: 40px 80px; // Top/Bottom, Left/Right; X, Y
+  text-align: center;
+  margin: 0px;
+  width: 100%;
+  h1  {
+     font-size: 4.5em;
+     text-shadow: 5px 5px 10px #222; // Gives the text and only the text a shadow (x, y, dispersion/spray, color)
+     background-color: lighten(maroon, 4%); // In SCSS lighten lets you change a color
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 5px;
+     transition: all 200ms ease-in-out; // Tells the browser how fast changes should occur (the process of the changes)
+     &:hover {
+       box-shadow: 5px 5px 20px #555; // Gives a shadow to the edge of the box (x, y, spray, color).
+       text-shadow: none;
+     }
+  }
+  .issueForm {
+    button {
+      color: red;
+      font-weight: bold;
+    }
+  }
+  form {
+    margin: 30px 0px;
+    input {
+      color: red;
+    }
+  }
+  > div {
+    margin-bottom: 30px;
+
+  }
+  .button {
+    font-weight: bold;
+    text-align: center;
+    background-color: antiquewhite;
+    border: none;
+    color: orange;
+    border-radius: 5px;
+  }
+  img {
+   width: 100%;
+   max-width: 500px;
+   transition: all 400ms ease-in-out;
+   &:hover {
+     transform: rotateZ(2deg);
+     box-shadow: 0px 0px 35px black;
+   }
+  }
+  .showDoctors {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 100%;
+
+    img {
+      flex-basis: 100%;
+      height: 400px;
+      object-fit: 100%;
+      &:hover:not([src="null"]) { // Tells the browser: "When hovering and item that doesnt have "src="null" does this...""
+        transform: scale(1.05) rotateZ(2deg);
+      }
+      &[src="null"] {
+        transform: none;
+        box-shadow: none;
+      }
+    }
+  }
+  .resultMessage {
+    font-size: 25px;
+    font-weight: bold;
+    color: yellow;
+  }
+}
